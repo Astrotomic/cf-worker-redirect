@@ -23,7 +23,7 @@ Adjust the `redirects.json` file to your needs with all your wanted redirects.
 ```bash
 yarn build
 yarn deploy
-yarn publish
+wrangler publish
 ```
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Astrotomic/cf-worker-redirect)

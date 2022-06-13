@@ -6,7 +6,6 @@
 		"dev": "wrangler dev",
 		"build": "webpack",
 		"deploy": "worker-setup deploy",
-		"publish": "wrangler publish",
 		"generate": "worker-setup generate && cp redirects.example.json redirects.json"
 	},
 	"license": "MIT",
