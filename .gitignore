@@ -1,6 +1,8 @@
 dist
 node_modules
-transpiled
 worker
 .env
 wrangler.toml
+package-lock.json
+yarn.lock
+redirects.json
